@@ -1,3 +1,10 @@
+# ElevenValueBoolean
+
+**Author:** Cadell Richard Anderson  
+**License:** Custom License: ElevenValueBoolean Attribution License (EAL) v1.0
+**Version:** 0.2  
+**Date:** July 2025
+    
 #define NOMINMAX
 #include <windows.h>
 #include <algorithm>
